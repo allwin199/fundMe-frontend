@@ -3,7 +3,7 @@
 1. Clone the repo
 
 ```
-git clone https://github.com/worksofallwin/fundMe-frontend
+git clone https://github.com/worksofallwin/fundMe-frontend.git
 cd fundMe-frontend
 ```
 
